@@ -1,4 +1,4 @@
-# Call for Posters - Systems for ML Workshop @ NeurIPS 2019
+# Call for Papers - Systems for ML Workshop @ NeurIPS 2019
 We invite participation in the Systems for ML Workshop which will be held in conjunction with NeurIPS 2019 in December, 2019 in Vancouver, Canada. 
 
 ## Overview
