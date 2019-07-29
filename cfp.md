@@ -1,0 +1,30 @@
+# Call for Posters - Systems for ML Workshop @ NeurIPS 2019
+We invite participation in the Systems for ML Workshop which will be held in conjunction with NeurIPS 2019 in December, 2019 in Vancouver, Canada. 
+
+## Overview
+
+The goal of this workshop is to bring together experts working at the crossroads of machine learning, system design and software engineering to explore the challenges faced when building practical large-scale ML systems. In particular, we aim to elicit new connections among these fields, and identify tools, best practices and design principles. The workshop will cover ML and AI platforms and algorithm toolkits (Caffe2, TensorFlow, PyTorch etc), as well as dive into ML focused developments in various systems topics.
+ 
+We welcome high quality submissions in the broad area of large scale systems and software design for machine learning.   A few (non-exhaustive) topics of interest include:
+* Systems for training and serving machine learning models at scale
+* Systems for online and interactive learning algorithms
+* Large scale distributed learning algorithms in practice
+* Database systems for large scale learning
+* Specialized or custom hardware for machine learning
+* Programming languages for machine learning
+* Benchmarking systems (for machine learning algorithms)
+* Model understanding tools (debugging, visualization, introspection, etc).
+* Systems for collecting, preparing, and managing machine learning data
+
+Through invited talks as well as poster presentations by the participants, this workshop will showcase the latest advances in machine learning systems and address challenges at the intersection of machine learning and system design.
+
+<!-- *This year, the Systems for ML workshop will be part of a two day workshop series on ML and Systems. In conjunction with this workshop, there will be a workshop on ML for Systems.
+Work on machine learning for system design (e.g. learning for job scheduling, configuration tuning, database query optimization) is better suited for submission to that workshop.
+See their Call for Papers for more details.* -->
+
+## Submission Instructions and Important Dates
+
+Coming soon!
+
+## Contact Us
+Contact us at machine-learning-systems-workshop@googlegroups.com 
