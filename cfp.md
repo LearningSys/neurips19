@@ -16,13 +16,13 @@ We welcome high quality submissions in the broad area of large scale systems and
 * Model understanding tools (debugging, visualization, introspection, etc).
 * Systems for collecting, preparing, and managing machine learning data
 
-Through invited talks as well as poster presentations by the participants, this workshop will showcase the latest advances in machine learning systems and address challenges at the intersection of machine learning and system design.
+Through invited talks as well as oral and poster presentations by the participants, this workshop will showcase the latest advances in machine learning systems and address challenges at the intersection of machine learning and system design.
 
 <!-- *This year, the Systems for ML workshop will be part of a two day workshop series on ML and Systems. In conjunction with this workshop, there will be a workshop on ML for Systems.
 Work on machine learning for system design (e.g. learning for job scheduling, configuration tuning, database query optimization) is better suited for submission to that workshop.
 See their Call for Papers for more details.* -->
 
-## Submission Instructions and Important Dates
+## Submission Instructions and Dates
 
 Coming soon!
 
