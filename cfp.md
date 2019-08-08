@@ -22,9 +22,18 @@ Through invited talks as well as oral and poster presentations by the participan
 Work on machine learning for system design (e.g. learning for job scheduling, configuration tuning, database query optimization) is better suited for submission to that workshop.
 See their Call for Papers for more details.* -->
 
-## Submission Instructions and Dates
+## Submission Instructions
+Submissions can be up to 6 pages (not including references). 
+All submissions must be in PDF format and should follow the NeurIPS 2019 format
+Submissions do not have to be anonymized
+Please submit your paper using CMT: 
+https://cmt3.research.microsoft.com/MLSWSML2019/Submission/Index
 
-Coming soon!
+## Important Dates
+Submission Deadline: September 10, 2019 11.59pm PST
+Acceptance Notifications: October 1, 2019
+Workshop: December 13, 2019
+
 
 ## Contact Us
 Contact us at machine-learning-systems-workshop@googlegroups.com 
