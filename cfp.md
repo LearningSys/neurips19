@@ -23,16 +23,16 @@ Work on machine learning for system design (e.g. learning for job scheduling, co
 See their Call for Papers for more details.* -->
 
 ## Submission Instructions
-Submissions can be up to 6 pages (not including references). 
-All submissions must be in PDF format and should follow the NeurIPS 2019 format
-Submissions do not have to be anonymized
-Please submit your paper using CMT: 
+* Submissions can be up to 6 pages (not including references). 
+* All submissions must be in PDF format and should follow the NeurIPS 2019 format
+* Submissions do not have to be anonymized
+* Please submit your paper using CMT: 
 https://cmt3.research.microsoft.com/MLSWSML2019/Submission/Index
 
 ## Important Dates
-Submission Deadline: September 10, 2019 11.59pm PST
-Acceptance Notifications: October 1, 2019
-Workshop: December 13, 2019
+* Submission Deadline: September 10, 2019 11.59pm PST
+* Acceptance Notifications: October 1, 2019
+* Workshop: December 13, 2019
 
 
 ## Contact Us
