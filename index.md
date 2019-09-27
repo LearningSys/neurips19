@@ -26,3 +26,25 @@ We invite participation in the Systems for ML Workshop which will be held in con
 + Siddhartha Sen, Microsoft Research, <sidsen@microsoft.com>
 
 Contact us: <machine-learning-systems-workshop@googlegroups.com>
+
+## Program Committee
++ François Belletti, Google AI
++ Sarah Bird, Microsoft
++ Vladimir Feinberg, Sisu Data
++ Garth Gibson, Vector Institute and Carnegie Mellon University
++ Joseph E. Gonzalez, UC Berkeley
++ Asim Kadav, NEC labs
++ Aparna Lakshmi Ratan, Facebook
++ Mathias Lécuyer, Microsoft Research
++ Jinyang Li, NYU
++ Daniel Lo, Microsoft
++ Mihir Nanavati, Microsoft Research
++ Aurojit Panda, NYU
++ Christopher Ré, Stanford University
++ Siddhartha Sen, Microsoft Research
++ Riley Spahn, Columbia University
++ Andrew Tulloch, Facebook
++ Haoyu Zhang, Google AI
+
+
+
