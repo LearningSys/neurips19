@@ -32,7 +32,7 @@ See their Call for Papers for more details.* -->
 
 ## Important Dates
 * Submission Deadline: ~~September 10~~ September 13, 2019 11.59pm PST
-* Acceptance Notifications: October 1, 2019
+* Acceptance Notifications: ~~October 1, 2019~~, October 4, 2019
 * Workshop: December 13, 2019
 
 
