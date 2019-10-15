@@ -1,5 +1,5 @@
 # Call for Papers - Systems for ML Workshop @ NeurIPS 2019
-We invite participation in the Systems for ML Workshop which will be held in conjunction with NeurIPS 2019 in December, 2019 in Vancouver, Canada. 
+We invite participation in the Systems for ML Workshop which will be held in conjunction with NeurIPS 2019 on December 13, 2019 in Vancouver, Canada. 
 
 ## Overview
 
@@ -26,13 +26,14 @@ See their Call for Papers for more details.* -->
 
 ## Submission Instructions
 * Submissions can be up to 6 pages (not including references). 
-* All submissions must be in PDF format and should follow the NeurIPS 2019 format
+* All submissions must be in PDF format and should follow the [NeurIPS 2019 format](https://nips.cc/Conferences/2019/PaperInformation/StyleFiles)
 * Submissions do not have to be anonymized
 * [Please submit your paper using CMT](https://cmt3.research.microsoft.com/MLSWSML2019/Submission/Index)
 
 ## Important Dates
 * Submission Deadline: ~~September 10~~ September 13, 2019 11.59pm PST
 * Acceptance Notifications: ~~October 1, 2019~~, October 4, 2019
+* Final File Upload: November 15, 2019
 * Workshop: December 13, 2019
 
 
