@@ -2,6 +2,8 @@
 
 8:30-8:40: &nbsp;&nbsp;&nbsp; Opening Remarks
 
+---
+
 ### Session 1
 8:40 - 9:10 &nbsp;&nbsp;&nbsp;     Keynote 1: *Machine Learning Reproducibility:  An update from the NeurIPS 2019 Reproducibility Co-Chairs*, Joelle Pineau, McGill University and Facebook
 
