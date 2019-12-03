@@ -21,7 +21,7 @@
 ---
 
 ### Session 2
-11:10 - 11:40 &nbsp;&nbsp;&nbsp;    Keynote 2: Vivienne Sze, MIT
+11:10 - 11:40 &nbsp;&nbsp;&nbsp;    Keynote 2: *Balancing Efficiency and Flexibility for DNN Acceleration*, Vivienne Sze, MIT
 
 11:40 - 12:00 &nbsp;&nbsp;&nbsp;    Contributed Talk: *5 Parallel Prism: A Topology for Pipelined Implementations of Convolutional Neural Networks Using Computational Memory*
 
