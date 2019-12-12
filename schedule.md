@@ -33,18 +33,17 @@
 
 ### Systems Bonanza
 1:30 - 3:30 &nbsp;&nbsp;&nbsp; Systems Bonanza (10 minutes each)
-  + PyTorch
-  + TensorFlow
-  + Keras
-  + TVM
-  + Ray
-  + ONNX Runtime
-  + CoreML
-  + Flux
-  + MLFlow
-  + MLPerf
-  + Microsoft RL Systems
-  + MXNet
+  + PyTorch (Dmytro Dzhulgakov, Facebook)
+  + TensorFlow, Keras (Jonathan Hseu, Google Brain)
+  + TVM (Tianqi Chen, OctoML)
+  + Ray (Robert Nishihara, UC Berkeley)
+  + ONNX Runtime (Faith Xu, Microsoft)
+  + CoreML (Reza Farhadi, Apple)
+  + Flux (Shashi Gowda, MIT)
+  + MLFlow (Matei Zaharia, Stanford University and Databricks)
+  + MLPerf (Peter Mattson, Google Brain) 
+  + Microsoft RL Systems (Paul Mineiro, Microsoft Research)
+  + MXNet (Alex Smola, Amazon Web Services)
 
 ---
   
