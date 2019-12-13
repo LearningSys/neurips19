@@ -54,7 +54,7 @@
 ---
 
 ### Session 3: Invited Talks
-4:30 - 5:00 &nbsp;&nbsp;&nbsp;    Keynote 3: Ryota Tomioka, Microsoft Research
+4:30 - 5:00 &nbsp;&nbsp;&nbsp;    Keynote 3: *Programming the Grahcore IPU*, Ryota Tomioka, Microsoft Research
 
 5:00 - 5:20 &nbsp;&nbsp;&nbsp;    Contributed Talk: *LISA: Towards Learned DNA Sequence Search*
 
