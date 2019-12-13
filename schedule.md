@@ -34,7 +34,8 @@
 ### Systems Bonanza
 1:30 - 3:30 &nbsp;&nbsp;&nbsp; Systems Bonanza (10 minutes each)
   + PyTorch (Dmytro Dzhulgakov, Facebook)
-  + TensorFlow, Keras (Jonathan Hseu, Google Brain)
+  + TensorFlow (Jonathan Hseu, Google Brain)
+  + Keras (Yifei Feng, Google Brain)
   + TVM (Tianqi Chen, OctoML)
   + Ray (Robert Nishihara, UC Berkeley)
   + ONNX Runtime (Faith Xu, Microsoft)
