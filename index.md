@@ -12,7 +12,7 @@ This workshop will follow the successful model we have previously run with the M
 
 Join our low-volume mailing list for announcements about future workshops and other events of interest to the Systems for ML community:
 
-**mlsys-workshop-announcements@googlegroups.com**
+[mlsys-workshop-announcements@googlegroups.com](https://groups.google.com/forum/#!forum/mlsys-workshop-announcements)
 
 ## Call for Papers
 
