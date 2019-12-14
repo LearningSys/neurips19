@@ -8,6 +8,12 @@ A new area is emerging at the intersection of artificial intelligence, machine l
 
 This workshop will follow the successful model we have previously run with the ML Systems Workshops @ [NeurIPS](http://learningsys.org/nips18/) and [ICML](https://sites.google.com/site/mlsys2016/), and [SOSP](http://learningsys.org/sosp17/)
 
+## Mailing List
+
+Join our low-volume mailing list for announcements about future workshops and other events of interest to the Systems for ML community:
+
+**mlsys-workshop-announcements@googlegroups.com**
+
 ## Call for Papers
 
 We invite participation in the Systems for ML Workshop which will be held in conjunction with NeurIPS 2019 in Vancouver, Canada.
