@@ -8,6 +8,10 @@ A new area is emerging at the intersection of artificial intelligence, machine l
 
 This workshop will follow the successful model we have previously run with the ML Systems Workshops @ [NeurIPS](http://learningsys.org/nips18/) and [ICML](https://sites.google.com/site/mlsys2016/), and [SOSP](http://learningsys.org/sosp17/)
 
+## Workshop recordings
+
+This year, NeurIPS recorded the workshop. Links to the recordings of individual sessions can be found on the [schedule](/neurips19/schedule.html).
+
 ## Mailing List
 
 Join our low-volume mailing list for announcements about future workshops and other events of interest to the Systems for ML community:
