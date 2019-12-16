@@ -5,6 +5,9 @@
 ---
 
 ### Session 1, Chair: Aparna Lakshmiratan, Facebook AI
+
+**[Link to recording](https://slideslive.com/38922010/mlsys-workshop-on-systems-for-ml-1)**
+
 8:40 - 9:10 &nbsp;&nbsp;&nbsp;     Keynote 1: *Machine Learning Reproducibility:  An update from the NeurIPS 2019 Reproducibility Co-Chairs*, Joelle Pineau, McGill University and Facebook
 
 9:10 - 9:30 &nbsp;&nbsp;&nbsp;    Contributed Talk: *SLIDE : Training Deep Neural Networks with Large Outputs on a CPU faster than a V100-GPU*
@@ -21,6 +24,9 @@
 ---
 
 ### Session 2: Chair: Sid Sen, Microsoft Research
+
+**[Link to recording](https://slideslive.com/38921981/mlsys-workshop-on-systems-for-ml-2)**
+
 11:10 - 11:40 &nbsp;&nbsp;&nbsp;    Keynote 2: *Balancing Efficiency and Flexibility for DNN Acceleration*, Vivienne Sze, MIT
 
 11:40 - 12:00 &nbsp;&nbsp;&nbsp;    Contributed Talk: *5 Parallel Prism: A Topology for Pipelined Implementations of Convolutional Neural Networks Using Computational Memory*
@@ -32,6 +38,9 @@
 ---
 
 ### Systems Bonanza, Chair: Dan Crankshaw, Microsoft Research
+
+**[Link to recording](https://slideslive.com/38922016/mlsys-workshop-on-systems-for-ml-3-11-20191214-0041)**
+
 1:30 - 3:30 &nbsp;&nbsp;&nbsp; Systems Bonanza (10 minutes each)
   + PyTorch (Dmytro Dzhulgakov, Facebook)
   + TensorFlow (Jonathan Hseu, Google Brain)
@@ -54,6 +63,9 @@
 ---
 
 ### Session 3, Chair: Sarah Bird, Microsoft Research
+
+**[Link to recording](https://slideslive.com/38921983/mlsys-workshop-on-systems-for-ml-4)**
+
 4:30 - 5:00 &nbsp;&nbsp;&nbsp;    Keynote 3: *Programming the Graphcore IPU*, Ryota Tomioka, Microsoft Research
 
 5:00 - 5:20 &nbsp;&nbsp;&nbsp;    Contributed Talk: *LISA: Towards Learned DNA Sequence Search*
