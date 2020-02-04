@@ -32,7 +32,7 @@
 
 [**Compiling Classical ML Pipelines into Tensor Computations for One-size-fits-all Prediction Serving**](assets/papers/27_CameraReadySubmission_Hummingbird (5).pdf): Supun Nakandala (University of California, San Diego); Gyeong-In Yu (Seoul National University); Markus Weimer (Microsoft); Matteo Interlandi (Microsoft)
 
-**sktime: A Unified Interface for Machine Learning with Time Series**: Markus Löning (University College London); Anthony Bagnall (University of East Anglia); Franz J Kiraly (UCL)
+[**sktime: A Unified Interface for Machine Learning with Time Series**](assets/papers/sktime_ml_systems_neurips2019.pdf): Markus Löning (University College London); Anthony Bagnall (University of East Anglia); Franz J Kiraly (UCL)
 
 [**Dali: Scaling Lazy Compilation & JIT Fusion**](assets/papers/29_CameraReadySubmission_Dali__SysML_2019-2.pdf): Jonathan Raiman (OpenAI)
 
