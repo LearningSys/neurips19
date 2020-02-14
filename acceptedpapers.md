@@ -50,7 +50,7 @@
 
 [**Distributed Asynchronous Domain Adaptation : Towards Making Domain Adaptation More Practical in Real-World Systems**](assets/papers/40_CameraReadySubmission_mlsys_neurips.pdf): Shaoduo Gan (ETH Zurich); Akhil Mathur (Nokia Bell Labs); Anton Isopoussu (Nokia Bell Labs); Nadia Berthouze (University College London); Nicholas Lane (University of Oxford); Fahim Kawsar (Nokia Bell Labs)
 
-**Distributed Training Across the World**: Ligeng Zhu (MIT); Song Han (MIT)
+[**Distributed Training Across the World**](assets/papers/NeurIPS19_MLSys_Distributed_Training_Across_the_World.pdf): Ligeng Zhu (MIT); Song Han (MIT)
 
 [**Reversible Fixup Networks for Memory-Efficient Training**](assets/papers/42_CameraReadySubmission_neurips_2019.pdf): Vithursan Thangarasa (University of Guelph); Kenyon C.-Y. Tsai (N/A); Graham Taylor (University of Guelph); Urs Koster (Cerebras Systems)
 
